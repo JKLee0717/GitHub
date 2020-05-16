@@ -1,0 +1,8 @@
+1. Pull
+git pull origin master
+
+2. Push
+git status
+git add .
+git commit -m "message"
+git push origin +master
