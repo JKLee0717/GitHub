@@ -1,3 +1,6 @@
+git init
+git remote add origin http://github.com/JKlee0717/PythonBasic
+
 1. Pull
 git pull origin master
 
